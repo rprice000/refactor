@@ -1,4 +1,4 @@
-/* Start Window and Body Styling */
+/* Window and Body Styling Start */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,17 +8,17 @@ body {
     background-color: #d9dcd6;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-/* End Window and Boyd Styling */
+/* Window and Body Styling End */
 
 
-/* Start Header and Footer Styling*/
+/* Header and Footer Styling Start */
 header h1, footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-/* End Header and Footer Styling*/
+/* Header and Footer Styling End*/
 
 
-/* Start Header and Navbar Styling*/
+/* Header and Navbar Styling Start */
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -45,17 +45,17 @@ header a {
     color: #ffffff;
     text-decoration: none;
 }
-/* End Header and Navbar Styling */
+/* Header and Navbar Styling End */
 
 
-/* Start Main Styling */
+/* Main Styling Start */
 main p {
     font-size: 16px; 
 }
-/* End Main Styling */
+/* Main Styling End */
 
 
-/* Start Class=hero Styling */
+/* Class=hero Styling Start */
 .hero img {
     height: 800px;
     width: 100%;
@@ -63,10 +63,10 @@ main p {
     background-size: cover;
     background-position: center;
 }
-/* End Class=hero Styling */
+/* Class=hero Styling End */
 
 
-/* Start Class=Content Styling */
+/* Class=Content Styling Start */
 .content {
     width: 75%;
     display: inline-block;
@@ -94,10 +94,10 @@ main p {
     float: right;
     margin-left: 25px;
 }
-/* End Class=Content Styling */
+/* Class=Content Styling End */
 
 
-/* Start Class=benefits Styling */
+/* Class=benefits Styling Start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,10 +120,10 @@ main p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* End Class=benefits Styling */
+/* Class=benefits Styling End */
 
 
-/* Start Footer Styling */
+/* Footer Styling Start */
 footer {
     padding: 30px;
     clear: both;
@@ -132,4 +132,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/* End Footer Styling */
+/* Footer Styling End */
