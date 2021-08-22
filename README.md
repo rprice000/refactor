@@ -36,6 +36,10 @@ https://github.com/rprice000/refactor
 - Website Link
 https://rprice000.github.io/refactor/
 
+# Version
+
+- 1.0.0
+
 # Authors
 
 - name: Reagan Price
